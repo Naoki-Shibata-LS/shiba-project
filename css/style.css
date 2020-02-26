@@ -4,3 +4,7 @@ h1 {
   margin: 0;
 }
 
+.content {
+  background-color: #fcc;
+  width: 600px;
+}
