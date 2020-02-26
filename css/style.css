@@ -7,4 +7,5 @@ h1 {
 .content {
   background-color: #fcc;
   width: 600px;
+  margin: 10px auto;
 }
